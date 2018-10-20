@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  root controller: :main, action: :index
+  root controller: :api_feed, action: :index
 end
